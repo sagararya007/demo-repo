@@ -1,0 +1,26 @@
+Turn any GitHub repository into an interactive diagram for visualization.
+
+This is useful for quickly visualizing projects.
+
+You can also replace 'hub' with 'diagram' in any GitHub URL
+
+git log: How to View Commit History
+
+Click here to download the latest (2.53.0(2)) x64 version of Git for Windows. This is the most recent maintained build. It was released 10 days ago, on 2026-03-10.
+
+Other Git for Windows downloads
+Standalone Installer
+Git for Windows/x64 Setup.
+
+Git for Windows/ARM64 Setup.
+
+Portable ("thumbdrive edition")
+Git for Windows/x64 Portable.
+
+Git for Windows/ARM64 Portable.
+
+Using winget tool
+Install winget tool if you don't already have it, then type this command in command prompt or Powershell.
+winget install --id Git.Git -e --source winget
+
+The current source code release is version 2.53.0. If you want the newer version, you can build it from the source code.
