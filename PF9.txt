@@ -1,4 +1,14 @@
 project9 data 
+<<<<<<< HEAD
+Solaris 11 Express, OpenIndiana
+# pkg install developer/versioning/git
+OpenBSD
+# pkg_add git
+Alpine
+$ apk add git
+Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al.
+RHEL and derivatives typically ship older versions of git. You can download a tarball and build from source, or use a 3rd-party repository such as the IUS Community Project to obtain a more recent version of git.
+=======
 User principal name
 aryan@sagararya007gmail.onmicrosoft.com
 Display name
@@ -20,3 +30,4 @@ Groups
 Roles
 Global Administrator
 Global Secure Access Administrator
+>>>>>>> f4e108839d3e7a7e78188a013985b8a8760f5a04
