@@ -1,1 +1,22 @@
 project9 data 
+User principal name
+aryan@sagararya007gmail.onmicrosoft.com
+Display name
+aryasagar
+Mail nickname
+aryan
+Password
+••••••••••
+
+
+Account enabled
+Yes
+Properties
+User type
+Member
+Assignments
+Administrative units
+Groups
+Roles
+Global Administrator
+Global Secure Access Administrator
